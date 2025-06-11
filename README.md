@@ -18,7 +18,7 @@
 - 파일 입출력 및 시스템 프로그래밍 경험  
 
 ## 내용 ✍️
-📁C Study
+[📁C Study](https://github.com/kimsm0405/C/tree/main/C%20Study)
 
 [C Coding Test (4.14)](https://github.com/kimsm0405/C/tree/main/C%20Study/C%20Coding%20Test%20(4.14))  -> C언어 실습 내용을 바탕으로 문제 풀어보기  
 
