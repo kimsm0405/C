@@ -4,21 +4,21 @@
 
 이 레포지토리는 C 언어를 학습하며 다양한 프로그래밍 기초를 다지고, 문제를 해결하는 공간입니다. 실전 경험을 쌓고, 프로그래밍 사고력을 기르는 것을 목표로 합니다.
 
-## 개발 환경 🛠️
+# 개발 환경 🛠️
 - **OS:** Windows 11  
 - **프로그래밍 언어:** C (C11 이상)  
 - **컴파일러:** GCC, Clang, MSVC  
 - **코드 편집기:** Visual Studio, Visual Studio Code, CLion, Code::Blocks  
 - **버전 관리:** Git 및 GitHub  
 
-## 학습 목적 🎯
+# 학습 목적 🎯
 - C 언어의 기본 문법과 자료형 이해  
 - 포인터, 배열, 구조체 등 핵심 개념 익히기  
 - 메모리 관리 및 동적 할당 학습  
 - 파일 입출력 및 시스템 프로그래밍 경험  
 
-## 내용 ✍️
-[📁C Study](https://github.com/kimsm0405/C/tree/main/C%20Study)
+# 내용 ✍️
+## [📁C Study](https://github.com/kimsm0405/C/tree/main/C%20Study)
 
 [C Coding Test (4.14)](https://github.com/kimsm0405/C/tree/main/C%20Study/C%20Coding%20Test%20(4.14))  -> C언어 실습 내용을 바탕으로 문제 풀어보기  
 
