@@ -22,6 +22,8 @@
 
 [C Coding Test (4.14)](https://github.com/kimsm0405/C/tree/main/C%20Study/C%20Coding%20Test%20(4.14))  -> C언어 실습 내용을 바탕으로 문제 풀어보기  
 
+[2-1 C언어 기초 - 간단한 프로그램 작성하기](https://github.com/kimsm0405/C/blob/main/C%20Study/2-1.c)
+
 [3-1 함수와 데이터 형식](https://github.com/kimsm0405/C/blob/main/C%20Study/3-1.c)
 
 [4-1 C 연산자의 이해](https://github.com/kimsm0405/C/blob/main/C%20Study/4-1.c)
