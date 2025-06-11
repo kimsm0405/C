@@ -22,25 +22,25 @@
 
 [C Coding Test (4.14)](https://github.com/kimsm0405/C/tree/main/C%20Study/C%20Coding%20Test%20(4.14))  -> C언어 실습 내용을 바탕으로 문제 풀어보기  
 
-3-1 함수와 데이터 형식
+[3-1 함수와 데이터 형식](https://github.com/kimsm0405/C/blob/main/C%20Study/3-1.c)
 
-4-1 C 연산자의 이해
+[4-1 C 연산자의 이해](https://github.com/kimsm0405/C/blob/main/C%20Study/4-1.c)
 
-5-1 조건문
+[5-1 조건문](https://github.com/kimsm0405/C/blob/main/C%20Study/5-1.c)
 
-6-1 반복문의 기본, for문
+[6-1 반복문의 기본, for문](https://github.com/kimsm0405/C/blob/main/C%20Study/6-1.c)
 
-7-1 while문과 흐름 제어
+[7-1 while문과 흐름 제어](https://github.com/kimsm0405/C/blob/main/C%20Study/7-1.c)
 
-8-1 배열
+[8-1 배열](https://github.com/kimsm0405/C/blob/main/C%20Study/8-1.c)
 
-9-1 배열과 포인터
+[9-1 배열과 포인터](https://github.com/kimsm0405/C/blob/main/C%20Study/9-1.c)
 
-10-1 함수
+[10-1 함수](https://github.com/kimsm0405/C/blob/main/C%20Study/10-1.c)
 
-11-1 표준 입출력과 파일 입출력
+[11-1 표준 입출력과 파일 입출력](https://github.com/kimsm0405/C/blob/main/C%20Study/11-1.c)
 
-12-1 고급 포인터
+[12-1 고급 포인터](https://github.com/kimsm0405/C/blob/main/C%20Study/12-1.c)
 
-13-1 구조체, 공용체, 열거형
+[13-1 구조체, 공용체, 열거형](https://github.com/kimsm0405/C/blob/main/C%20Study/13-1.c)
 
